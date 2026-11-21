@@ -4,18 +4,28 @@
 
 Es necesario tener instalado [Node.js](https://nodejs.org/).
 
-1. Abrir una terminal dentro de la carpeta del proyecto.
+1. Clonar el repositorio:
 
-2. Instalar las dependencias:
+```bash
+git clone URL_DEL_REPOSITORIO
+```
+
+2. Entrar a la carpeta del proyecto:
+
+```bash
+cd Mini-Inventory-Manager
+```
+
+3. Instalar las dependencias:
 
 ```bash
 npm install
 ```
 
-3. Iniciar la aplicación:
+4. Iniciar la aplicación:
 
 ```bash
 npm run dev
 ```
 
-4. Abrir en el navegador la dirección que aparece en la terminal.
+5. Abrir en el navegador la dirección que aparece en la terminal.
